@@ -165,19 +165,18 @@ make WAVES=1
 riscv-rv32i-cosimulation/
 │
 ├── rtl/
-│   └── riscv_core.v
+│   └── mini_riscv.sv
 │
 ├── tb/
 │   ├── riscv_iss.py
-│   ├── monitor.py
-│   └── test_riscv.py
+│   └── test_mini_riscv.py
 │
 ├── sim/
 │   └── Makefile
 │
 ├── docs/
-│   ├── terminal_pass.png
-│   └── waveform.png
+│   ├── riscv_core_terminal_pass.png
+│   └── riscv_core_waveform.png
 │
 └── README.md
 ```
