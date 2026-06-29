@@ -203,7 +203,7 @@ PASS: All architectural registers matched the Golden Reference Model.
 Simulation completed successfully.
 ```
 
-![Terminal Output](docs/riscv_core_terminal_pass.png.png)
+![Terminal Output](docs/riscv_core_terminal_pass.png)
 
 ### Waveform
 
